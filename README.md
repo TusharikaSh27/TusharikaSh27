@@ -33,7 +33,7 @@
 
 *Problem Solving*
 - Data Structures & Algorithms
-- Competitive Programming (LeetCode)
+  
 
 
 ---
@@ -48,6 +48,7 @@
 
 ### 📫 How to Reach Me
 - 💼 LinkedIn:(https://www.linkedin.com/in/tusharika-sharma-38a48833a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
 - 💻 GitHub: https://github.com/TusharikaSh27
 - 📧 Email: tsh27026@gmail.com
 <!--

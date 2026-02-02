@@ -24,7 +24,7 @@
 - MySQL, PostgreSQL (basics)
 
 *Frontend (Basics)*
-- HTML, CSS, Bootstrap, React (basic)
+- HTML, CSS, Bootstrap, React 
 
 *DevOps & Tools*
 - Docker, Git, GitHub

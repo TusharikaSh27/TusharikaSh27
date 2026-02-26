@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 - 🔭 Currently focusing on *Backend Development (Java + Spring Boot)*
-- 🧠 Solved *550+ LeetCode problems* (Arrays, Strings, Trees, Graphs, DP)
+- 🧠 Solved *600+ LeetCode problems* (Arrays, Strings, Trees, Graphs, DP)
 - 🌱 Learning *Docker, AI,Kubernetes, Cloud (OCI/AWS basics)*
 - 🛠️ Hands-on with *REST APIs, Databases*
 

@@ -40,7 +40,7 @@
 
 ### 🏆 Achievements
 - ✅ Solved *600+ DSA problems* on LeetCode and other platforms.
-- 📊 LeetCode Rank ~ *1.7 Lakh*
+- 📊 LeetCode Rank ~ *1.5 Lakh*
 - 💡 Strong problem-solving and analytical skills
 - 📘 Consistent learner 
 

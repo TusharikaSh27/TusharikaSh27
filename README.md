@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Tusharika 
+## Hi there 👋 I'm Tusharika Sharma
 
 
 ---
@@ -24,12 +24,12 @@
 - MySQL, PostgreSQL (basics)
 
 *Frontend (Basics)*
-- HTML, CSS, Bootstrap, React 
+- HTML, CSS, Bootstrap, React,Angular
 
 *DevOps & Tools*
 - Docker, Git, GitHub
 - Linux, Maven
-- CI/CD (basic understanding)
+- Jenkins, CI/CD (basic understanding)
 
 *Problem Solving*
 - Data Structures & Algorithms
@@ -47,8 +47,7 @@
 ---
 
 ### 📫 How to Reach Me
-- 💼 LinkedIn:(https://www.linkedin.com/in/tusharika-sharma-38a48833a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  
+- 💼 LinkedIn:(https://www.linkedin.com/in/tusharika-sharma-38a48833a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - 💻 GitHub: https://github.com/TusharikaSh27
 - 📧 Email: tsh27026@gmail.com
 <!--
